@@ -5,7 +5,7 @@ Admin dashboard template based on Next.js with [@paljs/ui](https://github.com/pa
 #### Setup:
 
 ```
-git clone https://github.com/paljs/nextjs-admin-template.git
+git clone https://github.com/TopSoftwareEngineer/nextJsAdminTemplate.git
 
 cd nextjs-admin-template
 
